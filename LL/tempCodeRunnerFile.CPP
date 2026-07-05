@@ -1,0 +1,2 @@
+ deleteHead(head);
+    displayList(head);
